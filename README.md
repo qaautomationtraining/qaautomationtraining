@@ -125,3 +125,4 @@ $ git push [alias] [branch]<br />
 Uploads all local branch commits to GitHub<br />
 $ git pull<br />
 Downloads bookmark history and incorporates changes<br />
+
